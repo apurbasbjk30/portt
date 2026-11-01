@@ -13,7 +13,7 @@ const profile = {
   email: 'apurba131223@gmail.com',
   github: 'https://github.com/apurbasbjk30',
   linkedin: 'https://www.linkedin.com/in/apurbasbjk30/',
-  cv: '/assets/resume.pdf',
+  cv: '/assets/CV_Apurba_Das (3).pdf',
 };
 
 const research = [
